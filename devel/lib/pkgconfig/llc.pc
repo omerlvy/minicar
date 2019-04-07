@@ -1,0 +1,8 @@
+prefix=/home/nuke/Desktop/minicar/devel
+
+Name: llc
+Description: Description of llc
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nuke/Desktop/minicar/devel/lib 
+Requires: 

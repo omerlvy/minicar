@@ -1,0 +1,8 @@
+prefix=/home/nuke/Desktop/minicar/install
+
+Name: minicar_tools
+Description: Description of minicar_tools
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nuke/Desktop/minicar/install/lib 
+Requires: 

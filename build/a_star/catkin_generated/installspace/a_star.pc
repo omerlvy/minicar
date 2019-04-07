@@ -1,0 +1,8 @@
+prefix=/home/nuke/Desktop/minicar/install
+
+Name: a_star
+Description: Description of a_star
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nuke/Desktop/minicar/install/lib 
+Requires: 
