@@ -1,2 +1,0 @@
-a_star:llc:minicar_tools:trajectory_controller
--DCATKIN_DEVEL_PREFIX=/home/nuke/Desktop/minicar/devel -DCMAKE_INSTALL_PREFIX=/home/nuke/Desktop/minicar/install -G Unix Makefiles

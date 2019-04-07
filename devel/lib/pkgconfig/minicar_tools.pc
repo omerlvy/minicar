@@ -1,8 +1,0 @@
-prefix=/home/nuke/Desktop/minicar/devel
-
-Name: minicar_tools
-Description: Description of minicar_tools
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/nuke/Desktop/minicar/devel/lib 
-Requires: 

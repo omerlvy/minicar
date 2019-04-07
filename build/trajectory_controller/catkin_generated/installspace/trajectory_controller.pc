@@ -1,8 +1,0 @@
-prefix=/home/nuke/Desktop/minicar/install
-
-Name: trajectory_controller
-Description: Description of trajectory_controller
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/nuke/Desktop/minicar/install/lib 
-Requires: 
